@@ -1,7 +1,7 @@
 define(['backbone'], function (Backbone) {
 
     var Config = new Backbone.Model({
-        baseUrl: 'http://localhost:8080/infoskyalp',
+        baseUrl: 'http://localhost:8080/',
         version: '1'
 
     });
